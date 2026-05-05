@@ -4,7 +4,7 @@ class Add
     {
         int a=2;
         int b=3;
-        int c=a+b+3;
+        int c=a+b+5;
         System.out.print(c);
     }
 }
